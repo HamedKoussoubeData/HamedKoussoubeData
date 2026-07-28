@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hamed-koussoube.png" alt="Photo professionnelle de Hamed Koussoubé" width="230">
+<img src="./hamed-koussoube.png" alt="Photo professionnelle de Hamed Koussoubé" width="230">
 
 # Hamed KOUSSOUBÉ
 
